@@ -1,0 +1,38 @@
+#jogar
+{
+background-color: aqua;    
+}
+
+.line
+{
+height:6px;
+background-color: blue;
+width: 70px;
+margin: 8px auto;
+}
+
+body
+{
+text-align: center; 
+}
+
+#app
+{
+background-color: aqua;
+}
+
+#meuCarrosel
+{
+background-color: blue;
+}
+
+#meuCarrosel img{
+height: 300px;
+margin-top: 35px;
+}
+
+.carousel-inner p{
+margin-top: 15px;
+color: brown;
+font-size: 20px;
+}
